@@ -1,36 +1,37 @@
 <h1 align="center">👑 KASHI</h1>
-<2 align="center">Hold my hand, I will take your server to handel BILLIONs of user</h2>
+<h3 align="center">Hold my hand, I will take your server to handel BILLION of user</h1>
 <h3 align="center">Backend Engineer | Spring Ecosystem | Distributed Systems</h3>
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="left">
-  <!-- Spring Ecosystem -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+
+  <h1 align="left"> Spring Ecosystem</h1>
+  <p><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" /> <strong>Kashi</strong></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="Tomcat"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Jetty_Logo.png" height="40" alt="Jetty"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" alt="Maven"/>
   
 
-  <!-- Messaging & Cache -->
+  <h1 align="left"> Messaging & Caching </h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"/>
 
-  <!-- Testing & Monitoring -->
+<h1 align="left"> Testing & Monitoring</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="JUnit"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
+  <img src="https://avatars.githubusercontent.com/u/11860887?v=4" height="40" alt="Zipkin"/>
 
-  <!-- Databases -->
+  <h1 align="left"> Databases</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
   
-  <!-- Security -->
+  <h1 align="left"> Security</h1>
   <img src="https://simpleicons.org/icons/openid.svg" height="40" alt="OAuth2"/>
-  <!--monitoring -->
-  <img src="https://avatars.githubusercontent.com/u/11860887?v=4" height="40" alt="Zipkin"/>
-</div>
+  
+  
+
 
 
 ---
